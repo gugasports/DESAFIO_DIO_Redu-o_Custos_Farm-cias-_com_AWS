@@ -3,8 +3,10 @@ Desafio de projetos do Bootcamp Totvs, do módulo de Noções de Computação em
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 29/07/2026
+Data: 29/07/2026.
+
 Empresa: Abstergo Industries 
+
 Responsável: Gustavo Mateus
 
 ## Introdução
