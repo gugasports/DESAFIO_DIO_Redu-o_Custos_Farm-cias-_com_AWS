@@ -37,16 +37,16 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 Essa combinação demonstra uma estratégia de otimização em armazenamento, processamento e tráfego de rede, ajudando a reduzir custos operacionais de forma imediata sem comprometer a disponibilidade dos sistemas.
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
---
+
 ## Anexos
 
 **S3 Intelligent-Tiering:** https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/intelligent-tiering-overview.html
-                        https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html
+                            https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html
                         
-**EC2 Auto Scaling:** https://aws.amazon.com/pt/ec2/autoscaling/
+**EC2 Auto Scaling:**   https://aws.amazon.com/pt/ec2/autoscaling/
 
-**Amazon CloudFront:** https://docs.aws.amazon.com/pt_br/cloudfront/?icmpid=docs_homepage_networking
---
+**Amazon CloudFront:**  https://docs.aws.amazon.com/pt_br/cloudfront/?icmpid=docs_homepage_networking
+
 
 Assinatura do Responsável pelo Projeto:
 **Gustavo Mateus**
